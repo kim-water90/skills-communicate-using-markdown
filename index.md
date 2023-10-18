@@ -3,3 +3,6 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [ ] wake up
+- [ ] walk
+- [ ] sleep
